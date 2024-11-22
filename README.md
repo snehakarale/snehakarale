@@ -3,11 +3,11 @@
 🎓 Recently completed my Cloud Computing Certificate from Humber College, and I'm passionate about building scalable and efficient cloud-based solutions.
 
 🔧 Skills & Technologies:
-- Cloud Platforms: AWS
+- Cloud Platform: AWS
 - Containerization & Orchestration: Docker, Kubernetes
 - Automation & Infrastructure as Code: Terraform, Ansible
-- Operating Systems: Linux (RedHat)
-- Databases: MySQL
+- Operating System: Linux (RedHat)
+- Database: MySQL
 - Programming & Scripting: Python
 - Data Visualization: Tableau
 
